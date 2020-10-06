@@ -9,7 +9,7 @@ https://vladdsm.github.io/myblog_attempt/topics/lazy%20trading/
 FALCON_B is the modified version of The-Falcon:
 
 * Let robot to log results of the trades to the file
-* Let robot be disabled unless it's flagged to be enabled by external software 
+* Let robot be disabled unless it's flagged to be enabled by external software
 
 # Reference
 
